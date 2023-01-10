@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 09 Jan 2023 07:47:03 at http://demos.ui-lib.com/gull/html/layout1/datatables.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +http://demos.ui-lib.com/gull/html/layout1/datatables.html
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" http://demos.ui-lib.com/gull/html/layout1/datatables.html -O1 "C:\Users\User\Desktop\dashboard-completo\liteci" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +http://demos.ui-lib.com/gull/html/layout1/datatables.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:47:42	Error: 	"Not Found" (404) at link demos.ui-lib.com/gull/html/layout1/signin.html (from demos.ui-lib.com/gull/html/layout1/datatables.html)
+07:50:35	Warning: 	Retry after error -2 (Receive Time Out) at link demos.ui-lib.com/gull/dist-assets/js/plugins/datatables.min.js (from demos.ui-lib.com/gull/html/layout1/datatables.html)
+07:51:43	Error: 	"Not Found" (404) at link demos.ui-lib.com/gull/dist-assets/dist-assets/images/page-bg-bottom.png (from demos.ui-lib.com/gull/dist-assets/css/themes/lite-purple.min.css)
+07:51:43	Error: 	"Not Found" (404) at link demos.ui-lib.com/images/products/watch-2.jpg (from demos.ui-lib.com/gull/dist-assets/css/themes/lite-purple.min.css)
+07:51:43	Error: 	"Not Found" (404) at link demos.ui-lib.com/gull/html/layout1/href (from demos.ui-lib.com/gull/html/layout1/lists.html)
+07:51:43	Error: 	"Not Found" (404) at link demos.ui-lib.com/gull/dist-assets/js/scripts/apexBubbleCHart.script.min.js (from demos.ui-lib.com/gull/html/layout1/charts.apexBubbleCharts.html)
+07:51:43	Error: 	"Not Found" (404) at link demos.ui-lib.com/gull/dist-assets/js/scripts/apexRadialbarChart.script.min.js (from demos.ui-lib.com/gull/html/layout1/charts.apexRadialBarCharts.html)
+07:53:31	Warning: 	Retry after error -2 (Receive Time Out) at link demos.ui-lib.com/gull/dist-assets/fonts/iconsmind/iconsmind.svg?ioqkm7 (from demos.ui-lib.com/gull/dist-assets/fonts/iconsmind/iconsmind.css)
+07:53:31	Error: 	"Not Found" (404) at link demos.ui-lib.com/gull/dist-assets/css/img/tour/cross.png (from demos.ui-lib.com/gull/dist-assets/css/plugins/hopscotch.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 32 seconds : 182 links scanned, 172 files written (15751485 bytes overall) [6860292 bytes received at 17500 bytes/sec], 12971101 bytes transferred using HTTP compression in 143 files, ratio 25%, 7.0 requests per connection
+(7 errors, 2 warnings, 0 messages)
